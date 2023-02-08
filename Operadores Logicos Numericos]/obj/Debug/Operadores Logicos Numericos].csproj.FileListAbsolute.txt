@@ -1,0 +1,7 @@
+D:\C#\Aulas\Aulas\Operadores Logicos Numericos]\bin\Debug\Operadores Logicos Numericos].exe.config
+D:\C#\Aulas\Aulas\Operadores Logicos Numericos]\bin\Debug\Operadores Logicos Numericos].exe
+D:\C#\Aulas\Aulas\Operadores Logicos Numericos]\bin\Debug\Operadores Logicos Numericos].pdb
+D:\C#\Aulas\Aulas\Operadores Logicos Numericos]\obj\Debug\Operadores Logicos Numericos].csproj.AssemblyReference.cache
+D:\C#\Aulas\Aulas\Operadores Logicos Numericos]\obj\Debug\Operadores Logicos Numericos].csproj.CoreCompileInputs.cache
+D:\C#\Aulas\Aulas\Operadores Logicos Numericos]\obj\Debug\Operadores Logicos Numericos].exe
+D:\C#\Aulas\Aulas\Operadores Logicos Numericos]\obj\Debug\Operadores Logicos Numericos].pdb
