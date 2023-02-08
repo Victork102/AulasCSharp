@@ -38,6 +38,27 @@ namespace Operadores_Logicos_Numericos_
             int resXOR = var2 ^ var3;
             Console.WriteLine("O resultado da Operação XOR entre " + Convert.ToString(var2, 2) + " e " + Convert.ToString(var3, 2) + " é: " + Convert.ToString(resXOR, 2));
 
+            // Operador Maior e Menor > e <
+
+            int var4 = 10;
+            int var5 = 20;
+            Console.WriteLine("O valor " + var4 + " é maior que " + var5 + "? " + (var4>var5));
+            Console.WriteLine("O valor " + var4 + " é menor que " + var5 + "? " + (var4 < var5));
+
+            // Operador Maior ou igual e Menor ou Igual >= e <=
+
+            Console.WriteLine("O valor " + var4 + " é maior ou igual a " + var5 + "? " + (var4 >= var5));
+            Console.WriteLine("O valor " + var4 + " é menor ou igual a " + var5 + "? " + (var4 <= var5));
+            Console.WriteLine("O valor " + var4 + " é maior ou igual a " + var4 + "? " + (var4 >= var4));
+            Console.WriteLine("O valor " + var5 + " é menor ou igual a " + var5 + "? " + (var5 <= var5));
+
+            // Operador Igual a ==
+
+            bool resIgual = var4 == var4;
+            Console.WriteLine("O valor " + var4 + " é igual a " + var4 + "? " + resIgual);
+            resIgual = var4 == var5;
+            Console.WriteLine("O valor " + var4 + " é igual a " + var5 + "? " + resIgual);
+
             Console.ReadKey();
 
         }

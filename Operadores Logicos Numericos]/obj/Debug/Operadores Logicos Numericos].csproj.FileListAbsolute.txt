@@ -5,3 +5,10 @@ D:\C#\Aulas\Aulas\Operadores Logicos Numericos]\obj\Debug\Operadores Logicos Num
 D:\C#\Aulas\Aulas\Operadores Logicos Numericos]\obj\Debug\Operadores Logicos Numericos].csproj.CoreCompileInputs.cache
 D:\C#\Aulas\Aulas\Operadores Logicos Numericos]\obj\Debug\Operadores Logicos Numericos].exe
 D:\C#\Aulas\Aulas\Operadores Logicos Numericos]\obj\Debug\Operadores Logicos Numericos].pdb
+D:\Repo\AulasCSharp\Operadores Logicos Numericos]\bin\Debug\Operadores Logicos Numericos].exe.config
+D:\Repo\AulasCSharp\Operadores Logicos Numericos]\bin\Debug\Operadores Logicos Numericos].exe
+D:\Repo\AulasCSharp\Operadores Logicos Numericos]\bin\Debug\Operadores Logicos Numericos].pdb
+D:\Repo\AulasCSharp\Operadores Logicos Numericos]\obj\Debug\Operadores Logicos Numericos].csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\Operadores Logicos Numericos]\obj\Debug\Operadores Logicos Numericos].csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Operadores Logicos Numericos]\obj\Debug\Operadores Logicos Numericos].exe
+D:\Repo\AulasCSharp\Operadores Logicos Numericos]\obj\Debug\Operadores Logicos Numericos].pdb
