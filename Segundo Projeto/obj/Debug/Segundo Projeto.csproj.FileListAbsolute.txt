@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\Segundo Projeto\bin\Debug\Segundo Projeto.exe.config
+D:\Repo\AulasCSharp\Segundo Projeto\bin\Debug\Segundo Projeto.exe
+D:\Repo\AulasCSharp\Segundo Projeto\bin\Debug\Segundo Projeto.pdb
+D:\Repo\AulasCSharp\Segundo Projeto\obj\Debug\Segundo Projeto.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\Segundo Projeto\obj\Debug\Segundo Projeto.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Segundo Projeto\obj\Debug\Segundo Projeto.exe
+D:\Repo\AulasCSharp\Segundo Projeto\obj\Debug\Segundo Projeto.pdb

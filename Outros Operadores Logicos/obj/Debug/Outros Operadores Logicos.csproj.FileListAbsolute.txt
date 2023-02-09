@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\Outros Operadores Logicos\obj\Debug\Outros Operadores Logicos.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\Outros Operadores Logicos\obj\Debug\Outros Operadores Logicos.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Outros Operadores Logicos\bin\Debug\Outros Operadores Logicos.exe.config
+D:\Repo\AulasCSharp\Outros Operadores Logicos\bin\Debug\Outros Operadores Logicos.exe
+D:\Repo\AulasCSharp\Outros Operadores Logicos\bin\Debug\Outros Operadores Logicos.pdb
+D:\Repo\AulasCSharp\Outros Operadores Logicos\obj\Debug\Outros Operadores Logicos.exe
+D:\Repo\AulasCSharp\Outros Operadores Logicos\obj\Debug\Outros Operadores Logicos.pdb

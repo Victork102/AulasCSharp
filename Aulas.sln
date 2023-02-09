@@ -5,6 +5,16 @@ VisualStudioVersion = 16.0.33214.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores Logicos Numericos]", "Operadores Logicos Numericos]\Operadores Logicos Numericos].csproj", "{32463443-DFA9-4FF1-A533-0FCC6FF4A16C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outros Operadores Logicos", "Outros Operadores Logicos\Outros Operadores Logicos.csproj", "{797C0290-917D-4094-BE89-D2AD5738478A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estruturas Decisão", "Estruturas Decisão\Estruturas Decisão.csproj", "{CB3F184B-6DB7-49A0-9C2C-DE4C6D2AD033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Segundo Projeto", "Segundo Projeto\Segundo Projeto.csproj", "{676F6FCC-0C3F-49AE-B7E9-35BFE2F78FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores Matematicos Basicos", "Operadores Matematicos Basicos\Operadores Matematicos Basicos.csproj", "{356FF3C6-10BE-4D9D-90FE-D6EDE5496118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores Matematicos Avançados", "Operadores Matematicos Avançados\Operadores Matematicos Avançados.csproj", "{9174061A-68C3-4DAD-BE4E-FE5939D2E521}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +25,26 @@ Global
 		{32463443-DFA9-4FF1-A533-0FCC6FF4A16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32463443-DFA9-4FF1-A533-0FCC6FF4A16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32463443-DFA9-4FF1-A533-0FCC6FF4A16C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797C0290-917D-4094-BE89-D2AD5738478A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797C0290-917D-4094-BE89-D2AD5738478A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797C0290-917D-4094-BE89-D2AD5738478A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797C0290-917D-4094-BE89-D2AD5738478A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB3F184B-6DB7-49A0-9C2C-DE4C6D2AD033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB3F184B-6DB7-49A0-9C2C-DE4C6D2AD033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB3F184B-6DB7-49A0-9C2C-DE4C6D2AD033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB3F184B-6DB7-49A0-9C2C-DE4C6D2AD033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676F6FCC-0C3F-49AE-B7E9-35BFE2F78FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676F6FCC-0C3F-49AE-B7E9-35BFE2F78FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676F6FCC-0C3F-49AE-B7E9-35BFE2F78FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676F6FCC-0C3F-49AE-B7E9-35BFE2F78FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{356FF3C6-10BE-4D9D-90FE-D6EDE5496118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356FF3C6-10BE-4D9D-90FE-D6EDE5496118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356FF3C6-10BE-4D9D-90FE-D6EDE5496118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356FF3C6-10BE-4D9D-90FE-D6EDE5496118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9174061A-68C3-4DAD-BE4E-FE5939D2E521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9174061A-68C3-4DAD-BE4E-FE5939D2E521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9174061A-68C3-4DAD-BE4E-FE5939D2E521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9174061A-68C3-4DAD-BE4E-FE5939D2E521}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\Estruturas Decisão\obj\Debug\Estruturas Decisão.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Estruturas Decisão\bin\Debug\Estruturas Decisão.exe.config
+D:\Repo\AulasCSharp\Estruturas Decisão\bin\Debug\Estruturas Decisão.exe
+D:\Repo\AulasCSharp\Estruturas Decisão\bin\Debug\Estruturas Decisão.pdb
+D:\Repo\AulasCSharp\Estruturas Decisão\obj\Debug\Estruturas Decisão.exe
+D:\Repo\AulasCSharp\Estruturas Decisão\obj\Debug\Estruturas Decisão.pdb
+D:\Repo\AulasCSharp\Estruturas Decisão\obj\Debug\Estruturas Decisão.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Repo\AulasCSharp\Operadores Matematicos Avançados\bin\Debug\Operadores Matematicos Avançados.exe.config
+D:\Repo\AulasCSharp\Operadores Matematicos Avançados\bin\Debug\Operadores Matematicos Avançados.exe
+D:\Repo\AulasCSharp\Operadores Matematicos Avançados\bin\Debug\Operadores Matematicos Avançados.pdb
+D:\Repo\AulasCSharp\Operadores Matematicos Avançados\obj\Debug\Operadores Matematicos Avançados.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Operadores Matematicos Avançados\obj\Debug\Operadores Matematicos Avançados.exe
+D:\Repo\AulasCSharp\Operadores Matematicos Avançados\obj\Debug\Operadores Matematicos Avançados.pdb

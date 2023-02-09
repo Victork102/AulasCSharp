@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\Operadores Matematicos Basicos\obj\Debug\Operadores Matematicos Basicos.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\Operadores Matematicos Basicos\obj\Debug\Operadores Matematicos Basicos.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Operadores Matematicos Basicos\bin\Debug\Operadores Matematicos Basicos.exe.config
+D:\Repo\AulasCSharp\Operadores Matematicos Basicos\bin\Debug\Operadores Matematicos Basicos.exe
+D:\Repo\AulasCSharp\Operadores Matematicos Basicos\bin\Debug\Operadores Matematicos Basicos.pdb
+D:\Repo\AulasCSharp\Operadores Matematicos Basicos\obj\Debug\Operadores Matematicos Basicos.exe
+D:\Repo\AulasCSharp\Operadores Matematicos Basicos\obj\Debug\Operadores Matematicos Basicos.pdb
