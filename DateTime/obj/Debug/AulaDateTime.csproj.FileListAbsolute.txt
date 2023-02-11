@@ -4,3 +4,4 @@ D:\Repo\AulasCSharp\DateTime\bin\Debug\DateTime.pdb
 D:\Repo\AulasCSharp\DateTime\obj\Debug\AulaDateTime.csproj.CoreCompileInputs.cache
 D:\Repo\AulasCSharp\DateTime\obj\Debug\DateTime.exe
 D:\Repo\AulasCSharp\DateTime\obj\Debug\DateTime.pdb
+D:\Repo\AulasCSharp\DateTime\obj\Debug\AulaDateTime.csproj.AssemblyReference.cache
