@@ -1,0 +1,6 @@
+D:\Repo\AulasCSharp\Laços rep\obj\Debug\Laços rep.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Laços rep\bin\Debug\Laços rep.exe.config
+D:\Repo\AulasCSharp\Laços rep\bin\Debug\Laços rep.exe
+D:\Repo\AulasCSharp\Laços rep\bin\Debug\Laços rep.pdb
+D:\Repo\AulasCSharp\Laços rep\obj\Debug\Laços rep.exe
+D:\Repo\AulasCSharp\Laços rep\obj\Debug\Laços rep.pdb
