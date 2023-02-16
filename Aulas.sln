@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laços rep", "Laços rep\Laços rep.csproj", "{1890C1D4-D1F5-4CAC-A181-F4C45FD09443}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakContinue", "BreakContinue\BreakContinue.csproj", "{393F86FE-B921-413B-AC77-008405E8D1E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoFatorial", "ProjetoFatorial\ProjetoFatorial.csproj", "{83265077-5D33-4D36-B6F9-6CC1EB524598}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{1890C1D4-D1F5-4CAC-A181-F4C45FD09443}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1890C1D4-D1F5-4CAC-A181-F4C45FD09443}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1890C1D4-D1F5-4CAC-A181-F4C45FD09443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{393F86FE-B921-413B-AC77-008405E8D1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393F86FE-B921-413B-AC77-008405E8D1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393F86FE-B921-413B-AC77-008405E8D1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393F86FE-B921-413B-AC77-008405E8D1E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83265077-5D33-4D36-B6F9-6CC1EB524598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83265077-5D33-4D36-B6F9-6CC1EB524598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83265077-5D33-4D36-B6F9-6CC1EB524598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83265077-5D33-4D36-B6F9-6CC1EB524598}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

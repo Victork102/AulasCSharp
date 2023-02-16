@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\ProjetoFatorial\obj\Debug\ProjetoFatorial.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\ProjetoFatorial\obj\Debug\ProjetoFatorial.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\ProjetoFatorial\bin\Debug\ProjetoFatorial.exe.config
+D:\Repo\AulasCSharp\ProjetoFatorial\bin\Debug\ProjetoFatorial.exe
+D:\Repo\AulasCSharp\ProjetoFatorial\bin\Debug\ProjetoFatorial.pdb
+D:\Repo\AulasCSharp\ProjetoFatorial\obj\Debug\ProjetoFatorial.exe
+D:\Repo\AulasCSharp\ProjetoFatorial\obj\Debug\ProjetoFatorial.pdb

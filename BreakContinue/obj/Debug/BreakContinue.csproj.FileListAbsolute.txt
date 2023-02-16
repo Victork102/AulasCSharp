@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\BreakContinue\bin\Debug\BreakContinue.exe.config
+D:\Repo\AulasCSharp\BreakContinue\bin\Debug\BreakContinue.exe
+D:\Repo\AulasCSharp\BreakContinue\bin\Debug\BreakContinue.pdb
+D:\Repo\AulasCSharp\BreakContinue\obj\Debug\BreakContinue.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\BreakContinue\obj\Debug\BreakContinue.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\BreakContinue\obj\Debug\BreakContinue.exe
+D:\Repo\AulasCSharp\BreakContinue\obj\Debug\BreakContinue.pdb
