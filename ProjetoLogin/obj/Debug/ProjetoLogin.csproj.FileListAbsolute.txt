@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+D:\Repo\AulasCSharp\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+D:\Repo\AulasCSharp\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+D:\Repo\AulasCSharp\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+D:\Repo\AulasCSharp\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
+D:\Repo\AulasCSharp\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.AssemblyReference.cache

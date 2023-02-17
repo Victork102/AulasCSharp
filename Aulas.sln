@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakContinue", "BreakConti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoFatorial", "ProjetoFatorial\ProjetoFatorial.csproj", "{83265077-5D33-4D36-B6F9-6CC1EB524598}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoLogin", "ProjetoLogin\ProjetoLogin.csproj", "{8C2AFB64-434B-408B-B49C-F2A6F5442B70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulacaoStrings", "ManipulacaoStrings\ManipulacaoStrings.csproj", "{06CDEEF7-3B2B-4247-9AB5-54ACEDE63774}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{83265077-5D33-4D36-B6F9-6CC1EB524598}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83265077-5D33-4D36-B6F9-6CC1EB524598}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83265077-5D33-4D36-B6F9-6CC1EB524598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2AFB64-434B-408B-B49C-F2A6F5442B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2AFB64-434B-408B-B49C-F2A6F5442B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2AFB64-434B-408B-B49C-F2A6F5442B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2AFB64-434B-408B-B49C-F2A6F5442B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06CDEEF7-3B2B-4247-9AB5-54ACEDE63774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CDEEF7-3B2B-4247-9AB5-54ACEDE63774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CDEEF7-3B2B-4247-9AB5-54ACEDE63774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CDEEF7-3B2B-4247-9AB5-54ACEDE63774}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

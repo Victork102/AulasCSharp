@@ -1,0 +1,6 @@
+D:\Repo\AulasCSharp\ManipulacaoStrings\bin\Debug\ManipulacaoStrings.exe.config
+D:\Repo\AulasCSharp\ManipulacaoStrings\bin\Debug\ManipulacaoStrings.exe
+D:\Repo\AulasCSharp\ManipulacaoStrings\bin\Debug\ManipulacaoStrings.pdb
+D:\Repo\AulasCSharp\ManipulacaoStrings\obj\Debug\ManipulacaoStrings.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\ManipulacaoStrings\obj\Debug\ManipulacaoStrings.exe
+D:\Repo\AulasCSharp\ManipulacaoStrings\obj\Debug\ManipulacaoStrings.pdb
