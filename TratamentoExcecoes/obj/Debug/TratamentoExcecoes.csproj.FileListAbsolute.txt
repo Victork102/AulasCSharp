@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\TratamentoExcecoes\bin\Debug\TratamentoExcecoes.exe.config
+D:\Repo\AulasCSharp\TratamentoExcecoes\bin\Debug\TratamentoExcecoes.exe
+D:\Repo\AulasCSharp\TratamentoExcecoes\bin\Debug\TratamentoExcecoes.pdb
+D:\Repo\AulasCSharp\TratamentoExcecoes\obj\Debug\TratamentoExcecoes.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\TratamentoExcecoes\obj\Debug\TratamentoExcecoes.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\TratamentoExcecoes\obj\Debug\TratamentoExcecoes.exe
+D:\Repo\AulasCSharp\TratamentoExcecoes\obj\Debug\TratamentoExcecoes.pdb

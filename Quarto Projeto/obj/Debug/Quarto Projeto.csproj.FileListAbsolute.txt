@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\Quarto Projeto\bin\Debug\Quarto Projeto.exe.config
+D:\Repo\AulasCSharp\Quarto Projeto\bin\Debug\Quarto Projeto.exe
+D:\Repo\AulasCSharp\Quarto Projeto\bin\Debug\Quarto Projeto.pdb
+D:\Repo\AulasCSharp\Quarto Projeto\obj\Debug\Quarto Projeto.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\Quarto Projeto\obj\Debug\Quarto Projeto.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Quarto Projeto\obj\Debug\Quarto Projeto.exe
+D:\Repo\AulasCSharp\Quarto Projeto\obj\Debug\Quarto Projeto.pdb

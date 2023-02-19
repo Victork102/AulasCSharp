@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Listas\bin\Debug\Listas.exe.config
+D:\Repo\AulasCSharp\Listas\bin\Debug\Listas.exe
+D:\Repo\AulasCSharp\Listas\bin\Debug\Listas.pdb
+D:\Repo\AulasCSharp\Listas\obj\Debug\Listas.exe
+D:\Repo\AulasCSharp\Listas\obj\Debug\Listas.pdb

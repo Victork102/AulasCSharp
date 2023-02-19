@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\Fila_Pilha\bin\Debug\Fila_Pilha.exe.config
+D:\Repo\AulasCSharp\Fila_Pilha\bin\Debug\Fila_Pilha.exe
+D:\Repo\AulasCSharp\Fila_Pilha\bin\Debug\Fila_Pilha.pdb
+D:\Repo\AulasCSharp\Fila_Pilha\obj\Debug\Fila_Pilha.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Fila_Pilha\obj\Debug\Fila_Pilha.exe
+D:\Repo\AulasCSharp\Fila_Pilha\obj\Debug\Fila_Pilha.pdb
+D:\Repo\AulasCSharp\Fila_Pilha\obj\Debug\Fila_Pilha.csproj.AssemblyReference.cache
