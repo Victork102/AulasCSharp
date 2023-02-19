@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\TerceiroProjeto\obj\Debug\TerceiroProjeto.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\TerceiroProjeto\obj\Debug\TerceiroProjeto.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\TerceiroProjeto\bin\Debug\TerceiroProjeto.exe.config
+D:\Repo\AulasCSharp\TerceiroProjeto\bin\Debug\TerceiroProjeto.exe
+D:\Repo\AulasCSharp\TerceiroProjeto\bin\Debug\TerceiroProjeto.pdb
+D:\Repo\AulasCSharp\TerceiroProjeto\obj\Debug\TerceiroProjeto.exe
+D:\Repo\AulasCSharp\TerceiroProjeto\obj\Debug\TerceiroProjeto.pdb

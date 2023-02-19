@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\Struct\bin\Debug\Struct.exe.config
+D:\Repo\AulasCSharp\Struct\bin\Debug\Struct.exe
+D:\Repo\AulasCSharp\Struct\bin\Debug\Struct.pdb
+D:\Repo\AulasCSharp\Struct\obj\Debug\Struct.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Struct\obj\Debug\Struct.exe
+D:\Repo\AulasCSharp\Struct\obj\Debug\Struct.pdb
