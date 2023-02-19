@@ -23,7 +23,7 @@ namespace TratamentoExcecoes
             }
             catch (DivideByZeroException e)  // tipo da exceção a ser tratada. Obrigatório. Executado apenas em caso de exceção.
             {
-                Console.WriteLine("Erro: "+ e.Message);
+                Console.WriteLine("Erro: "+ e.Message); // Lança uma mensagem de erro
             }
             catch(Exception e)
             {

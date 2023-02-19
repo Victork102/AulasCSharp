@@ -1,0 +1,6 @@
+D:\Repo\AulasCSharp\ForçarExceção\bin\Debug\ForçarExceção.exe.config
+D:\Repo\AulasCSharp\ForçarExceção\bin\Debug\ForçarExceção.exe
+D:\Repo\AulasCSharp\ForçarExceção\bin\Debug\ForçarExceção.pdb
+D:\Repo\AulasCSharp\ForçarExceção\obj\Debug\ForçarExceção.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\ForçarExceção\obj\Debug\ForçarExceção.exe
+D:\Repo\AulasCSharp\ForçarExceção\obj\Debug\ForçarExceção.pdb
