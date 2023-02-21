@@ -4,3 +4,4 @@ D:\Repo\AulasCSharp\ForçarExceção\bin\Debug\ForçarExceção.pdb
 D:\Repo\AulasCSharp\ForçarExceção\obj\Debug\ForçarExceção.csproj.CoreCompileInputs.cache
 D:\Repo\AulasCSharp\ForçarExceção\obj\Debug\ForçarExceção.exe
 D:\Repo\AulasCSharp\ForçarExceção\obj\Debug\ForçarExceção.pdb
+D:\Repo\AulasCSharp\ForçarExceção\obj\Debug\ForçarExceção.csproj.AssemblyReference.cache

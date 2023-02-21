@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\Metodos\bin\Debug\Metodos.exe.config
+D:\Repo\AulasCSharp\Metodos\bin\Debug\Metodos.exe
+D:\Repo\AulasCSharp\Metodos\bin\Debug\Metodos.pdb
+D:\Repo\AulasCSharp\Metodos\obj\Debug\Metodos.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Metodos\obj\Debug\Metodos.exe
+D:\Repo\AulasCSharp\Metodos\obj\Debug\Metodos.pdb
