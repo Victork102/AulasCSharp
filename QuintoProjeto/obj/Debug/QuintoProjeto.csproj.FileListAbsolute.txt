@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\QuintoProjeto\bin\Debug\QuintoProjeto.exe.config
+D:\Repo\AulasCSharp\QuintoProjeto\bin\Debug\QuintoProjeto.exe
+D:\Repo\AulasCSharp\QuintoProjeto\bin\Debug\QuintoProjeto.pdb
+D:\Repo\AulasCSharp\QuintoProjeto\obj\Debug\QuintoProjeto.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\QuintoProjeto\obj\Debug\QuintoProjeto.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\QuintoProjeto\obj\Debug\QuintoProjeto.exe
+D:\Repo\AulasCSharp\QuintoProjeto\obj\Debug\QuintoProjeto.pdb
