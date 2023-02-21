@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\Delegate\bin\Debug\Delegate.exe.config
+D:\Repo\AulasCSharp\Delegate\bin\Debug\Delegate.exe
+D:\Repo\AulasCSharp\Delegate\bin\Debug\Delegate.pdb
+D:\Repo\AulasCSharp\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Delegate\obj\Debug\Delegate.exe
+D:\Repo\AulasCSharp\Delegate\obj\Debug\Delegate.pdb

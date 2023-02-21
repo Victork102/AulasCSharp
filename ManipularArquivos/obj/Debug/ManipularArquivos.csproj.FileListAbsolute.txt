@@ -1,0 +1,6 @@
+D:\Repo\AulasCSharp\ManipularArquivos\obj\Debug\ManipularArquivos.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\ManipularArquivos\bin\Debug\ManipularArquivos.exe.config
+D:\Repo\AulasCSharp\ManipularArquivos\bin\Debug\ManipularArquivos.exe
+D:\Repo\AulasCSharp\ManipularArquivos\bin\Debug\ManipularArquivos.pdb
+D:\Repo\AulasCSharp\ManipularArquivos\obj\Debug\ManipularArquivos.exe
+D:\Repo\AulasCSharp\ManipularArquivos\obj\Debug\ManipularArquivos.pdb
