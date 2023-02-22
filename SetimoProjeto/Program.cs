@@ -15,6 +15,9 @@ namespace SextoProjeto
 		static string tagNomeRua;
 		static string tagNumCasa;
 		static string tagDoc;
+		static string[] conteudoArquivo = File.ReadAllLines(caminhoArquivo);
+		static List<dadosCadastrais_Struct> ListaUsuarios = new List<dadosCadastrais_Struct>();
+
 
 
 		public static void InitializeTags()
@@ -186,7 +189,8 @@ namespace SextoProjeto
 					conteudoArquivo += tagDoc + cadastro.numDoc + "\r\n";
 					conteudoArquivo += delimitadorFim + "\r\n";
 				}
-				File.WriteAllText(caminho, conteudoArquivo);
+				File.AppendAllText(caminho, conteudoArquivo);
+				conteudoArquivo = "";
 				
 			}
 			catch (Exception e)
@@ -203,7 +207,7 @@ namespace SextoProjeto
 				{
 
 					// Initialize
-					string[] conteudoArquivo = File.ReadAllLines(caminho);
+					conteudoArquivo = File.ReadAllLines(caminho);
 					dadosCadastrais_Struct dadosCadastro;
 
 					dadosCadastro.nomeCompleto = "";
@@ -256,6 +260,9 @@ namespace SextoProjeto
 
 		public static void BuscaUser(List<dadosCadastrais_Struct> ListaUsuarios)
 		{
+
+			
+
 			Console.WriteLine("Digite o Numero do Documento para buscar um usuario, ou digite S para sair");
 			string temp = Console.ReadLine();
 			if (temp.ToLower() == "s")
@@ -265,6 +272,41 @@ namespace SextoProjeto
 			else
 			{
 
+				foreach (string linha in conteudoArquivo)
+					{
+
+					dadosCadastrais_Struct dadosCadastro = new dadosCadastrais_Struct();
+
+						if (linha.Contains(delimitadorInicio))
+						{
+							continue;
+						}
+						if(linha.Contains(delimitadorFim))
+					{
+						ListaUsuarios.Add(dadosCadastro) ;
+					}
+						if (linha.Contains(tagNome))
+						{
+						dadosCadastro.nomeCompleto = linha;
+					}
+						if (linha.Contains(tagNasc))
+						{
+							dadosCadastro.dataNasc = Convert.ToDateTime(linha.Replace(tagNasc, ""));
+						}
+						if (linha.Contains(tagNomeRua))
+						{
+							dadosCadastro.nomeRua = linha.Replace(tagNomeRua, "");
+						}
+						if (linha.Contains(tagNumCasa))
+						{
+							dadosCadastro.numCasa = Convert.ToUInt16(linha.Replace(tagNumCasa, ""));
+						}
+						if (linha.Contains(tagDoc))
+						{
+						dadosCadastro.numDoc = linha.Replace(tagDoc, "");
+						}
+					}
+				
 				List<dadosCadastrais_Struct> listaUsuariosTemp = ListaUsuarios.Where(x => x.numDoc.Contains(temp)).ToList();
 				if (listaUsuariosTemp.Count > 0)
 				{
@@ -323,7 +365,7 @@ namespace SextoProjeto
 
 			static void Main(string[] args)
 			{
-				List<dadosCadastrais_Struct> ListaUsuarios = new List<dadosCadastrais_Struct>();
+				
 
 				string opcao = "";
 
@@ -363,6 +405,7 @@ namespace SextoProjeto
 					else if (opcao == "b")
 					{
 					// Buscar usuario
+					
 					BuscaUser(ListaUsuarios);
 					}
 					else if (opcao == "e")
