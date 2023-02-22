@@ -7,78 +7,78 @@ namespace SextoProjeto
 {
 	internal class Program
 	{
-		static string caminhoArquivo = @"Database.txt";
-		static string delimitadorInicio;
-		static string delimitadorFim;
-		static string tagNome;
-		static string tagNasc;
-		static string tagNomeRua;
-		static string tagNumCasa;
+		static string FilePath = @"Database.txt";
+		static string StartTag;
+		static string EndTag;
+		static string tagName;
+		static string tagBirth;
+		static string tagStreetName;
+		static string tagHouseNum;
 		static string tagDoc;
-		static string[] conteudoArquivo = File.ReadAllLines(caminhoArquivo);
-		static List<dadosCadastrais_Struct> ListaUsuarios = new List<dadosCadastrais_Struct>();
+		static string[] FileContent = File.ReadAllLines(FilePath);
+		static List<userData_Struct> UserList = new List<userData_Struct>();
 
 
 
 		public static void InitializeTags()
 		{
-			delimitadorInicio = "##### INICIO #####";
-			delimitadorFim = "##### FIM ##### \r\n";
-			tagNome = "NOME: ";
-			tagNasc = "DATA_DE_NASCIMENTO: ";
-			tagNomeRua = "NOME_DA_RUA: ";
-			tagNumCasa = "NUMERO_CASA: ";
+			StartTag = "##### INICIO #####";
+			EndTag = "##### FIM ##### \r\n";
+			tagName = "NOME: ";
+			tagBirth = "DATA_DE_NASCIMENTO: ";
+			tagStreetName = "NOME_DA_RUA: ";
+			tagHouseNum = "NUMERO_CASA: ";
 			tagDoc = "NÚMERO_DO_DOCUMENTO: ";
 
 		}
 
-		public struct dadosCadastrais_Struct
+		public struct userData_Struct
 		{
-			public String nomeCompleto;
-			public DateTime dataNasc;
-			public String nomeRua;
-			public UInt16 numCasa;
+			public String fullName;
+			public DateTime birthday;
+			public String streetName;
+			public UInt16 houseNum;
 			public string numDoc;
 
 
 		}
 
-		public enum resultado_e
+		public enum results_e
 		{
-			Sucesso = 0,
-			Sair = 1,
-			Excecao = 2
+			Success = 0,
+			Exit = 1,
+			Exception = 2
 		}
 
-		public static void PrintMessage(string mensagem)
+		public static void PrintMessage(string message)
 		{
-			Console.WriteLine(mensagem);
+			Console.WriteLine(message);
 			Console.WriteLine("Pressione qualquer tecla para continuar");
 			Console.ReadKey();
 			Console.Clear();
 		}
 
-		public static resultado_e PegaString(ref string minhaString, string mensagem)
+		public static results_e PegaString(ref string minhaString, string mensagem)
 		{
-			resultado_e retorno;
+			results_e retorno;
 			Console.WriteLine(mensagem);
 			string temp = Console.ReadLine();
 			if (temp == "s" || temp == "S")
 			{
-				retorno = resultado_e.Sair;
+				retorno = results_e.Exit;
 			}
 			else
 			{
 				minhaString = temp;
-				retorno = resultado_e.Sucesso;
+				retorno = results_e.Success;
 			}
 			Console.Clear();
 			return retorno;
 		}
 
-		public static resultado_e PegaData(ref DateTime data, string mensagem)
+		public static results_e PegaData(ref DateTime data, string mensagem)
 		{
-			resultado_e retorno;
+			results_e retorno;
 			do
 			{
 				try
@@ -87,29 +87,29 @@ namespace SextoProjeto
 					string temp = Console.ReadLine();
 					if (temp == "s" || temp == "S")
 					{
-						retorno = resultado_e.Sair;
+						retorno = results_e.Exit;
 					}
 					else
 					{
 						data = Convert.ToDateTime(temp);
-						retorno = resultado_e.Sucesso;
+						retorno = results_e.Success;
 					}
 				}
 				catch (Exception e)
 				{
 					Console.WriteLine("EXCEÇÂO: " + e.Message);
 					PrintMessage("Pressione qualquer tecla para continuar");
-					retorno = resultado_e.Excecao;
+					retorno = results_e.Exception;
 				}
 
-			} while (retorno == resultado_e.Excecao);
+			} while (retorno == results_e.Exception);
 			Console.Clear();
 			return retorno;
 		}
 
-		public static resultado_e PegaNum(ref UInt16 num, string mensagem)
+		public static results_e PegaNum(ref UInt16 num, string mensagem)
 		{
-			resultado_e retorno;
+			results_e retorno;
 			do
 			{
 				try
@@ -118,76 +118,76 @@ namespace SextoProjeto
 					string temp = Console.ReadLine();
 					if (temp == "s" || temp == "S")
 					{
-						retorno = resultado_e.Sair;
+						retorno = results_e.Exit;
 					}
 					else
 					{
 						num = Convert.ToUInt16(temp);
-						retorno = resultado_e.Sucesso;
+						retorno = results_e.Success;
 					}
 				}
 				catch (Exception e)
 				{
 					Console.WriteLine("EXCEÇÂO: " + e.Message);
 					PrintMessage("Pressione qualquer tecla para continuar");
-					retorno = resultado_e.Excecao;
+					retorno = results_e.Exception;
 				}
 
-			} while (retorno == resultado_e.Excecao);
+			} while (retorno == results_e.Exception);
 			Console.Clear();
 			return retorno;
 		}
 
-		public static resultado_e CadastraUsuário(ref List<dadosCadastrais_Struct> ListaUsuarios)
+		public static results_e CadastraUsuário(ref List<userData_Struct> ListaUsuarios)
 		{
-			dadosCadastrais_Struct cadastroUsuario;
-			cadastroUsuario.nomeCompleto = "";
-			cadastroUsuario.dataNasc = new DateTime();
-			cadastroUsuario.nomeRua = "";
-			cadastroUsuario.numCasa = 0;
-			cadastroUsuario.numDoc = "";
+			userData_Struct userData;
+			userData.fullName = "";
+			userData.birthday = new DateTime();
+			userData.streetName = "";
+			userData.houseNum = 0;
+			userData.numDoc = "";
 
-			if (PegaString(ref cadastroUsuario.nomeCompleto, "Digite o nome completo ou digite S para sair:") == resultado_e.Sair)
+			if (PegaString(ref userData.fullName, "Digite o nome completo ou digite S para sair:") == results_e.Exit)
 			{
-				return resultado_e.Sair;
+				return results_e.Exit;
 			}
-			if (PegaData(ref cadastroUsuario.dataNasc, "Digite a data de nascimento (DD/MM/YYY) ou digite S para sair:") == resultado_e.Sair)
+			if (PegaData(ref userData.birthday, "Digite a data de nascimento (DD/MM/YYY) ou digite S para sair:") == results_e.Exit)
 			{
-				return resultado_e.Sair;
+				return results_e.Exit;
 			}
-			if (PegaString(ref cadastroUsuario.nomeRua, "Digite o nome da rua:") == resultado_e.Sair)
+			if (PegaString(ref userData.streetName, "Digite o nome da rua:") == results_e.Exit)
 			{
-				return resultado_e.Sair;
+				return results_e.Exit;
 			}
-			if (PegaNum(ref cadastroUsuario.numCasa, "Digite o número do imóvel:") == resultado_e.Sair)
+			if (PegaNum(ref userData.houseNum, "Digite o número do imóvel:") == results_e.Exit)
 			{
-				return resultado_e.Sair;
+				return results_e.Exit;
 			}
-			if (PegaString(ref cadastroUsuario.numDoc, "Digite o número do documento:") == resultado_e.Sair)
+			if (PegaString(ref userData.numDoc, "Digite o número do documento:") == results_e.Exit)
 			{
-				return resultado_e.Sair;
+				return results_e.Exit;
 			}
 
-			ListaUsuarios.Add(cadastroUsuario);
-			return resultado_e.Sucesso;
+			ListaUsuarios.Add(userData);
+			return results_e.Success;
 
 		}
 
-		public static void GravaDados(string caminho, List<dadosCadastrais_Struct> ListaUsuarios)
+		public static void GravaDados(string caminho, List<userData_Struct> ListaUsuarios)
 		{
 			try
 			{
 				string conteudoArquivo = "";
 
-				foreach (dadosCadastrais_Struct cadastro in ListaUsuarios)
+				foreach (userData_Struct cadastro in ListaUsuarios)
 				{
-					conteudoArquivo += delimitadorInicio + "\r\n";
-					conteudoArquivo += tagNome + cadastro.nomeCompleto + "\r\n";
-					conteudoArquivo += tagNasc + cadastro.dataNasc.ToString("dd/MM/yyyy" + "\r\n");
-					conteudoArquivo += tagNomeRua + cadastro.nomeRua + "\r\n";
-					conteudoArquivo += tagNumCasa + cadastro.numCasa + "\r\n";
+					conteudoArquivo += StartTag + "\r\n";
+					conteudoArquivo += tagName + cadastro.fullName + "\r\n";
+					conteudoArquivo += tagBirth + cadastro.birthday.ToString("dd/MM/yyyy" + "\r\n");
+					conteudoArquivo += tagStreetName + cadastro.streetName + "\r\n";
+					conteudoArquivo += tagHouseNum + cadastro.houseNum + "\r\n";
 					conteudoArquivo += tagDoc + cadastro.numDoc + "\r\n";
-					conteudoArquivo += delimitadorFim + "\r\n";
+					conteudoArquivo += EndTag + "\r\n";
 				}
 				File.AppendAllText(caminho, conteudoArquivo);
 				conteudoArquivo = "";
@@ -199,7 +199,7 @@ namespace SextoProjeto
 
 			}
 		}
-		public static void CarregaDados(string caminho, ref List<dadosCadastrais_Struct> ListaUsuarios)
+		public static void CarregaDados(string caminho, ref List<userData_Struct> ListaUsuarios)
 		{
 			try
 			{
@@ -207,41 +207,41 @@ namespace SextoProjeto
 				{
 
 					// Initialize
-					conteudoArquivo = File.ReadAllLines(caminho);
-					dadosCadastrais_Struct dadosCadastro;
+					FileContent = File.ReadAllLines(caminho);
+					userData_Struct dadosCadastro;
 
-					dadosCadastro.nomeCompleto = "";
-					dadosCadastro.dataNasc = new DateTime();
-					dadosCadastro.nomeRua = "";
-					dadosCadastro.numCasa = 0;
+					dadosCadastro.fullName = "";
+					dadosCadastro.birthday = new DateTime();
+					dadosCadastro.streetName = "";
+					dadosCadastro.houseNum = 0;
 					dadosCadastro.numDoc = "";
 
-					foreach (string linha in conteudoArquivo)
+					foreach (string linha in FileContent)
 					{
-						if (linha.Contains(delimitadorInicio))
+						if (linha.Contains(StartTag))
 						{
 							continue;
 						}
-						if (linha.Contains(delimitadorFim))
+						if (linha.Contains(EndTag))
 						{
 							ListaUsuarios.Add(dadosCadastro);
 
 						}
-						if (linha.Contains(tagNome))
+						if (linha.Contains(tagName))
 						{
-							dadosCadastro.nomeCompleto = linha.Replace(tagNome, "");
+							dadosCadastro.fullName = linha.Replace(tagName, "");
 						}
-						if (linha.Contains(tagNasc))
+						if (linha.Contains(tagBirth))
 						{
-							dadosCadastro.dataNasc = Convert.ToDateTime(linha.Replace(tagNasc, ""));
+							dadosCadastro.birthday = Convert.ToDateTime(linha.Replace(tagBirth, ""));
 						}
-						if (linha.Contains(tagNomeRua))
+						if (linha.Contains(tagStreetName))
 						{
-							dadosCadastro.nomeRua = linha.Replace(tagNomeRua, "");
+							dadosCadastro.streetName = linha.Replace(tagStreetName, "");
 						}
-						if (linha.Contains(tagNumCasa))
+						if (linha.Contains(tagHouseNum))
 						{
-							dadosCadastro.numCasa = Convert.ToUInt16(linha.Replace(tagNumCasa, ""));
+							dadosCadastro.houseNum = Convert.ToUInt16(linha.Replace(tagHouseNum, ""));
 						}
 						if (linha.Contains(tagDoc))
 						{
@@ -258,7 +258,7 @@ namespace SextoProjeto
 			}
 		}
 
-		public static void BuscaUser(List<dadosCadastrais_Struct> ListaUsuarios)
+		public static void SearchUser(List<userData_Struct> UserDataSearch)
 		{
 
 			
@@ -272,51 +272,51 @@ namespace SextoProjeto
 			else
 			{
 
-				foreach (string linha in conteudoArquivo)
+				foreach (string line in FileContent)
 					{
 
-					dadosCadastrais_Struct dadosCadastro = new dadosCadastrais_Struct();
+					userData_Struct userData = new userData_Struct();
 
-						if (linha.Contains(delimitadorInicio))
+						if (line.Contains(StartTag))
 						{
 							continue;
 						}
-						if(linha.Contains(delimitadorFim))
+						if(line.Contains(EndTag))
 					{
-						ListaUsuarios.Add(dadosCadastro) ;
+						UserDataSearch.Add(userData) ;
 					}
-						if (linha.Contains(tagNome))
+						if (line.Contains(tagName))
 						{
-						dadosCadastro.nomeCompleto = linha;
+						userData.fullName = line;
 					}
-						if (linha.Contains(tagNasc))
+						if (line.Contains(tagBirth))
 						{
-							dadosCadastro.dataNasc = Convert.ToDateTime(linha.Replace(tagNasc, ""));
+							userData.birthday = Convert.ToDateTime(line.Replace(tagBirth, ""));
 						}
-						if (linha.Contains(tagNomeRua))
+						if (line.Contains(tagStreetName))
 						{
-							dadosCadastro.nomeRua = linha.Replace(tagNomeRua, "");
+							userData.streetName = line.Replace(tagStreetName, "");
 						}
-						if (linha.Contains(tagNumCasa))
+						if (line.Contains(tagHouseNum))
 						{
-							dadosCadastro.numCasa = Convert.ToUInt16(linha.Replace(tagNumCasa, ""));
+							userData.houseNum = Convert.ToUInt16(line.Replace(tagHouseNum, ""));
 						}
-						if (linha.Contains(tagDoc))
+						if (line.Contains(tagDoc))
 						{
-						dadosCadastro.numDoc = linha.Replace(tagDoc, "");
+						userData.numDoc = line.Replace(tagDoc, "");
 						}
 					}
 				
-				List<dadosCadastrais_Struct> listaUsuariosTemp = ListaUsuarios.Where(x => x.numDoc.Contains(temp)).ToList();
-				if (listaUsuariosTemp.Count > 0)
+				List<userData_Struct> userDataTemp = UserDataSearch.Where(x => x.numDoc.Contains(temp)).ToList();
+				if (userDataTemp.Count > 0)
 				{
-					foreach (dadosCadastrais_Struct user in listaUsuariosTemp)
+					foreach (userData_Struct user in userDataTemp)
 					{
 						Console.WriteLine(tagDoc + user.numDoc);
-						Console.WriteLine(tagNome + user.nomeCompleto);
-						Console.WriteLine(tagNasc + user.dataNasc.ToString("dd/MM/yyyy"));
-						Console.WriteLine(tagNomeRua + user.nomeRua);
-						Console.WriteLine(tagNumCasa + user.numCasa);
+						Console.WriteLine(tagName + user.fullName);
+						Console.WriteLine(tagBirth + user.birthday.ToString("dd/MM/yyyy"));
+						Console.WriteLine(tagStreetName + user.streetName);
+						Console.WriteLine(tagHouseNum + user.houseNum);
 						Console.WriteLine("");
 
 					}
@@ -330,7 +330,7 @@ namespace SextoProjeto
 			}
 		}
 
-		public static void DeleteUser(ref List<dadosCadastrais_Struct> ListaUsuarios)
+		public static void DeleteUser(ref List<userData_Struct> ListaUsuarios)
 		{
 			Console.WriteLine("Digite o N° do documento para excluir o usuário ou pressione S para sair");
 			string temp = Console.ReadLine();
@@ -341,10 +341,10 @@ namespace SextoProjeto
 			}
 			else
 			{
-				List<dadosCadastrais_Struct> ListaUsuariosTemp = ListaUsuarios.Where(x => x.numDoc == temp).ToList();
+				List<userData_Struct> ListaUsuariosTemp = ListaUsuarios.Where(x => x.numDoc == temp).ToList();
 				if (ListaUsuariosTemp.Count > 0)
 				{
-					foreach (dadosCadastrais_Struct user in ListaUsuariosTemp)
+					foreach (userData_Struct user in ListaUsuariosTemp)
 					{
 						ListaUsuariosTemp.Remove(user);
 						userDeleted = true;
@@ -352,7 +352,7 @@ namespace SextoProjeto
 				}
 				if (userDeleted)
 				{
-					GravaDados(caminhoArquivo, ListaUsuarios);
+					GravaDados(FilePath, ListaUsuarios);
 					Console.WriteLine(ListaUsuariosTemp + " usuário(s) com documento " + temp + " excluido(s)");
 				}
 				else
@@ -373,7 +373,7 @@ namespace SextoProjeto
 
 
 
-				CarregaDados(caminhoArquivo, ref ListaUsuarios);
+				CarregaDados(FilePath, ref UserList);
 
 				do
 				{
@@ -384,34 +384,34 @@ namespace SextoProjeto
 					{
 						// Cadastrar Usuário
 
-						if (File.Exists(caminhoArquivo) == false)
+						if (File.Exists(FilePath) == false)
 						{
-							FileStream database = File.Create(caminhoArquivo);
+							FileStream database = File.Create(FilePath);
 							database.Close();
 
 						}
-						if (CadastraUsuário(ref ListaUsuarios) == resultado_e.Sucesso)
+						if (CadastraUsuário(ref UserList) == results_e.Success)
 						{
-							GravaDados(caminhoArquivo, ListaUsuarios);
+							GravaDados(FilePath, UserList);
 						}
 
 
 					}
 					else if (opcao == "s")
 					{
-						//Sair
+						//Exit
 						PrintMessage("Encerrando Programa");
 					}
 					else if (opcao == "b")
 					{
 					// Buscar usuario
 					
-					BuscaUser(ListaUsuarios);
+					SearchUser(UserList);
 					}
 					else if (opcao == "e")
 					{
 					//Excluir usuario
-					DeleteUser(ref ListaUsuarios);
+					DeleteUser(ref UserList);
 					}
 
 					else
