@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\SetimoProjeto\obj\Debug\SetimoProjeto.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\SetimoProjeto\obj\Debug\SetimoProjeto.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\SetimoProjeto\bin\Debug\SetimoProjeto.exe.config
+D:\Repo\AulasCSharp\SetimoProjeto\bin\Debug\SetimoProjeto.exe
+D:\Repo\AulasCSharp\SetimoProjeto\bin\Debug\SetimoProjeto.pdb
+D:\Repo\AulasCSharp\SetimoProjeto\obj\Debug\SetimoProjeto.exe
+D:\Repo\AulasCSharp\SetimoProjeto\obj\Debug\SetimoProjeto.pdb
