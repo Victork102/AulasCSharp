@@ -1,0 +1,6 @@
+D:\Repo\AulasCSharp\ModificadorStatic\bin\Debug\ModificadorStatic.exe.config
+D:\Repo\AulasCSharp\ModificadorStatic\bin\Debug\ModificadorStatic.exe
+D:\Repo\AulasCSharp\ModificadorStatic\bin\Debug\ModificadorStatic.pdb
+D:\Repo\AulasCSharp\ModificadorStatic\obj\Debug\ModificadorStatic.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\ModificadorStatic\obj\Debug\ModificadorStatic.exe
+D:\Repo\AulasCSharp\ModificadorStatic\obj\Debug\ModificadorStatic.pdb

@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\Classes\bin\Debug\Classes.exe.config
+D:\Repo\AulasCSharp\Classes\bin\Debug\Classes.exe
+D:\Repo\AulasCSharp\Classes\bin\Debug\Classes.pdb
+D:\Repo\AulasCSharp\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Classes\obj\Debug\Classes.exe
+D:\Repo\AulasCSharp\Classes\obj\Debug\Classes.pdb

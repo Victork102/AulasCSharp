@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\OrientaçãoAObjetos\bin\Debug\OrientaçãoAObjetos.exe.config
+D:\Repo\AulasCSharp\OrientaçãoAObjetos\bin\Debug\OrientaçãoAObjetos.exe
+D:\Repo\AulasCSharp\OrientaçãoAObjetos\bin\Debug\OrientaçãoAObjetos.pdb
+D:\Repo\AulasCSharp\OrientaçãoAObjetos\obj\Debug\OrientaçãoAObjetos.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\OrientaçãoAObjetos\obj\Debug\OrientaçãoAObjetos.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\OrientaçãoAObjetos\obj\Debug\OrientaçãoAObjetos.exe
+D:\Repo\AulasCSharp\OrientaçãoAObjetos\obj\Debug\OrientaçãoAObjetos.pdb

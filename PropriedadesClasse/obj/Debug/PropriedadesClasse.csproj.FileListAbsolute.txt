@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\PropriedadesClasse\obj\Debug\PropriedadesClasse.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\PropriedadesClasse\obj\Debug\PropriedadesClasse.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\PropriedadesClasse\bin\Debug\PropriedadesClasse.exe.config
+D:\Repo\AulasCSharp\PropriedadesClasse\bin\Debug\PropriedadesClasse.exe
+D:\Repo\AulasCSharp\PropriedadesClasse\bin\Debug\PropriedadesClasse.pdb
+D:\Repo\AulasCSharp\PropriedadesClasse\obj\Debug\PropriedadesClasse.exe
+D:\Repo\AulasCSharp\PropriedadesClasse\obj\Debug\PropriedadesClasse.pdb
