@@ -1,0 +1,6 @@
+D:\Repo\AulasCSharp\DepuracaoAvançada\bin\Debug\DepuracaoAvançada.exe.config
+D:\Repo\AulasCSharp\DepuracaoAvançada\bin\Debug\DepuracaoAvançada.exe
+D:\Repo\AulasCSharp\DepuracaoAvançada\bin\Debug\DepuracaoAvançada.pdb
+D:\Repo\AulasCSharp\DepuracaoAvançada\obj\Debug\DepuracaoAvançada.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\DepuracaoAvançada\obj\Debug\DepuracaoAvançada.exe
+D:\Repo\AulasCSharp\DepuracaoAvançada\obj\Debug\DepuracaoAvançada.pdb

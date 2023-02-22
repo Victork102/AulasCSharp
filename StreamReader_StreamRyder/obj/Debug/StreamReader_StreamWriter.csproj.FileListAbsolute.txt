@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\StreamReader_StreamRyder\bin\Debug\StreamReader_StreamRyder.exe.config
+D:\Repo\AulasCSharp\StreamReader_StreamRyder\bin\Debug\StreamReader_StreamRyder.exe
+D:\Repo\AulasCSharp\StreamReader_StreamRyder\bin\Debug\StreamReader_StreamRyder.pdb
+D:\Repo\AulasCSharp\StreamReader_StreamRyder\obj\Debug\StreamReader_StreamWriter.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\StreamReader_StreamRyder\obj\Debug\StreamReader_StreamWriter.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\StreamReader_StreamRyder\obj\Debug\StreamReader_StreamRyder.exe
+D:\Repo\AulasCSharp\StreamReader_StreamRyder\obj\Debug\StreamReader_StreamRyder.pdb

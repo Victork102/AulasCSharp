@@ -4,3 +4,4 @@ D:\Repo\AulasCSharp\ManipularArquivos\bin\Debug\ManipularArquivos.exe
 D:\Repo\AulasCSharp\ManipularArquivos\bin\Debug\ManipularArquivos.pdb
 D:\Repo\AulasCSharp\ManipularArquivos\obj\Debug\ManipularArquivos.exe
 D:\Repo\AulasCSharp\ManipularArquivos\obj\Debug\ManipularArquivos.pdb
+D:\Repo\AulasCSharp\ManipularArquivos\obj\Debug\ManipularArquivos.csproj.AssemblyReference.cache

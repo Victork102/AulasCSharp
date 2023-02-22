@@ -1,0 +1,21 @@
+##### INICIO #####
+NOME: mario
+DATA_DE_NASCIMENTO: 28/02/1999
+NOME_DA_RUA: av a
+NUMERO_CASA: 122
+##### FIM ##### 
+
+##### INICIO #####
+NOME: mario
+DATA_DE_NASCIMENTO: 28/02/1999
+NOME_DA_RUA: av a
+NUMERO_CASA: 122
+##### FIM ##### 
+
+##### INICIO #####
+NOME: bertoldo
+DATA_DE_NASCIMENTO: 02/05/1992
+NOME_DA_RUA: av b
+NUMERO_CASA: 22
+##### FIM ##### 
+

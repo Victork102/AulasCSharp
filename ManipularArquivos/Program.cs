@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
 
 namespace ManipularArquivos
@@ -46,6 +42,56 @@ namespace ManipularArquivos
 
 			Console.WriteLine("Arquivo 1 existe? " + arquivo1 + " || Arquivo 2 existe: " + arquivo2);
 
+			// Renomear/Mover Arquivos
+
+			string caminho3 = "D:\\C#\\Aulas\\Nomes.txt";
+
+			File.Delete(caminho3);
+			File.Move(caminho2,caminho3);
+
+
+			// Escrever em arquivo .txt
+
+			FileStream meuArquivo3 = File.Create(caminho3);
+			meuArquivo3.Close();
+
+			string conteudo = "Marcos é um cara legal.\r\nPedro é um baita c**ão!";
+			File.WriteAllText(caminho3,conteudo);
+
+			// Escrever Array de Strings em arquivo .txt
+
+			string[] conteudoArray = { "Guilherme","Marcos","Pedro","Maria" };
+
+			File.WriteAllLines(caminho3, conteudoArray);
+
+			// Lendo Conteúdo de um arquivo .txt
+
+			string conteudoFile = File.ReadAllText(caminho3);
+
+			Console.WriteLine(conteudoFile);
+
+
+			//	Gravando conteúdo de arquivo em Array de Strings
+
+			Console.WriteLine("===================");
+			string[] conteudoLido = File.ReadAllLines(caminho3);
+
+			foreach (string n in conteudoLido)
+			{
+				Console.WriteLine(n);
+			}
+
+
+			// Adicionando texto em arquivo .txt já criado
+
+			string caminho4 = @"D:\C#\Aulas\Nomes2.txt";
+			string[] apende = {"Jorge", "Matheus", "Pedro" };
+
+			File.AppendAllLines(caminho4, apende);
+
+
+
+			
 
 			Console.ReadKey();
 		}

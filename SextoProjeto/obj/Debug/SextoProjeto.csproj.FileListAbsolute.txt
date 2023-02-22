@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\SextoProjeto\bin\Debug\SextoProjeto.exe.config
+D:\Repo\AulasCSharp\SextoProjeto\bin\Debug\SextoProjeto.exe
+D:\Repo\AulasCSharp\SextoProjeto\bin\Debug\SextoProjeto.pdb
+D:\Repo\AulasCSharp\SextoProjeto\obj\Debug\SextoProjeto.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\SextoProjeto\obj\Debug\SextoProjeto.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\SextoProjeto\obj\Debug\SextoProjeto.exe
+D:\Repo\AulasCSharp\SextoProjeto\obj\Debug\SextoProjeto.pdb
