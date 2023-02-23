@@ -73,6 +73,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModificadorStatic", "Modifi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropriedadesClasse", "PropriedadesClasse\PropriedadesClasse.csproj", "{D629025B-1177-42A6-8D89-BAE0446DCB29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{35C6616E-0104-4BA5-BB30-A8DC040DD1AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OitavoProjeto", "OitavoProjeto\OitavoProjeto.csproj", "{4D04FCD9-DFCB-4BEE-A940-13ABBDA7607D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +223,14 @@ Global
 		{D629025B-1177-42A6-8D89-BAE0446DCB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D629025B-1177-42A6-8D89-BAE0446DCB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D629025B-1177-42A6-8D89-BAE0446DCB29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C6616E-0104-4BA5-BB30-A8DC040DD1AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C6616E-0104-4BA5-BB30-A8DC040DD1AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C6616E-0104-4BA5-BB30-A8DC040DD1AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C6616E-0104-4BA5-BB30-A8DC040DD1AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D04FCD9-DFCB-4BEE-A940-13ABBDA7607D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D04FCD9-DFCB-4BEE-A940-13ABBDA7607D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D04FCD9-DFCB-4BEE-A940-13ABBDA7607D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D04FCD9-DFCB-4BEE-A940-13ABBDA7607D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

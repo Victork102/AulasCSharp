@@ -20,9 +20,11 @@ namespace ModificadorStatic
 			set { name = value; }
 		}
 
-		public void PrintName()
+
+		// Para acessar parâmetros não-static através de método static, estes devem ser informados como parâmetro de entrada atraves de um objeto
+		public static void PrintName(Person pPerson)
 		{
-			Console.WriteLine("O nome é: " + name);
+			Console.WriteLine("O nome é: " + pPerson.name);
 		}
 
 		public Person(string pName)
@@ -30,7 +32,9 @@ namespace ModificadorStatic
 			name = pName;
 		}
 	}
-	public class Calculator
+
+	// todos os itens de uma classe static devem ser static
+	public static class Calculator
 	{
 
 		// atributos static pertencem à classe, e não ao objeto
@@ -77,10 +81,12 @@ namespace ModificadorStatic
 
 			Calculator calc1 = new Calculator();
 
+			Console.WriteLine("========================");
+
 			// Metodos static apenas podem ser chamados através da classe estando inacessivel através de instâncias de objeto
 			//calc1.Pi();
 
-
+			Person.PrintName(pessoa1);
 
 		}
 	}

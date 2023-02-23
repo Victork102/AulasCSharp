@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\OitavoProjeto\bin\Debug\OitavoProjeto.exe.config
+D:\Repo\AulasCSharp\OitavoProjeto\bin\Debug\OitavoProjeto.exe
+D:\Repo\AulasCSharp\OitavoProjeto\bin\Debug\OitavoProjeto.pdb
+D:\Repo\AulasCSharp\OitavoProjeto\obj\Debug\OitavoProjeto.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\OitavoProjeto\obj\Debug\OitavoProjeto.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\OitavoProjeto\obj\Debug\OitavoProjeto.exe
+D:\Repo\AulasCSharp\OitavoProjeto\obj\Debug\OitavoProjeto.pdb
