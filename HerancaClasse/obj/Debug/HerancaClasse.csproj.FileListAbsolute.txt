@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\HerancaClasse\bin\Debug\HerancaClasse.exe.config
+D:\Repo\AulasCSharp\HerancaClasse\bin\Debug\HerancaClasse.exe
+D:\Repo\AulasCSharp\HerancaClasse\bin\Debug\HerancaClasse.pdb
+D:\Repo\AulasCSharp\HerancaClasse\obj\Debug\HerancaClasse.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\HerancaClasse\obj\Debug\HerancaClasse.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\HerancaClasse\obj\Debug\HerancaClasse.exe
+D:\Repo\AulasCSharp\HerancaClasse\obj\Debug\HerancaClasse.pdb

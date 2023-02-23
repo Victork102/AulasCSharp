@@ -77,6 +77,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OitavoProjeto", "OitavoProjeto\OitavoProjeto.csproj", "{4D04FCD9-DFCB-4BEE-A940-13ABBDA7607D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaClasse", "HerancaClasse\HerancaClasse.csproj", "{4AE2E766-7734-4FE6-9C20-A698EB8B892F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerançaClasseExemplo", "HerançaClasseExemplo\HerançaClasseExemplo.csproj", "{21450809-017D-4AA7-9FFF-70552674B267}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +235,14 @@ Global
 		{4D04FCD9-DFCB-4BEE-A940-13ABBDA7607D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D04FCD9-DFCB-4BEE-A940-13ABBDA7607D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D04FCD9-DFCB-4BEE-A940-13ABBDA7607D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE2E766-7734-4FE6-9C20-A698EB8B892F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE2E766-7734-4FE6-9C20-A698EB8B892F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE2E766-7734-4FE6-9C20-A698EB8B892F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE2E766-7734-4FE6-9C20-A698EB8B892F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21450809-017D-4AA7-9FFF-70552674B267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21450809-017D-4AA7-9FFF-70552674B267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21450809-017D-4AA7-9FFF-70552674B267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21450809-017D-4AA7-9FFF-70552674B267}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
