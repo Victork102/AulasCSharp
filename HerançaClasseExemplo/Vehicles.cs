@@ -40,10 +40,12 @@ namespace HerançaClasseExemplo
 
 		public void TurnOn()
 		{
+			isOn = true;
 			Console.WriteLine("Veículo Ligado!");
 		}
 		public void TurnOff()
 		{
+			isOn = false;
 			Console.WriteLine("Veículo desigado!");
 		}
 

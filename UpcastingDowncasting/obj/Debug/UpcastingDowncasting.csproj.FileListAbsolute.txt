@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\UpcastingDowncasting\obj\Debug\UpcastingDowncasting.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\UpcastingDowncasting\obj\Debug\UpcastingDowncasting.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\UpcastingDowncasting\bin\Debug\UpcastingDowncasting.exe.config
+D:\Repo\AulasCSharp\UpcastingDowncasting\bin\Debug\UpcastingDowncasting.exe
+D:\Repo\AulasCSharp\UpcastingDowncasting\bin\Debug\UpcastingDowncasting.pdb
+D:\Repo\AulasCSharp\UpcastingDowncasting\obj\Debug\UpcastingDowncasting.exe
+D:\Repo\AulasCSharp\UpcastingDowncasting\obj\Debug\UpcastingDowncasting.pdb

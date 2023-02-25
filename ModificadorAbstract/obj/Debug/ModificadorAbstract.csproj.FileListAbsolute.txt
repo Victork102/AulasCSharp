@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\ModificadorAbstract\bin\Debug\ModificadorAbstract.exe.config
+D:\Repo\AulasCSharp\ModificadorAbstract\bin\Debug\ModificadorAbstract.exe
+D:\Repo\AulasCSharp\ModificadorAbstract\bin\Debug\ModificadorAbstract.pdb
+D:\Repo\AulasCSharp\ModificadorAbstract\obj\Debug\ModificadorAbstract.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\ModificadorAbstract\obj\Debug\ModificadorAbstract.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\ModificadorAbstract\obj\Debug\ModificadorAbstract.exe
+D:\Repo\AulasCSharp\ModificadorAbstract\obj\Debug\ModificadorAbstract.pdb

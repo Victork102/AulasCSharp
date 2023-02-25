@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\SerializarDesserializarObjetos\bin\Debug\SerializarDesserializarObjetos.exe.config
+D:\Repo\AulasCSharp\SerializarDesserializarObjetos\bin\Debug\SerializarDesserializarObjetos.exe
+D:\Repo\AulasCSharp\SerializarDesserializarObjetos\bin\Debug\SerializarDesserializarObjetos.pdb
+D:\Repo\AulasCSharp\SerializarDesserializarObjetos\obj\Debug\SerializarDesserializarObjetos.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\SerializarDesserializarObjetos\obj\Debug\SerializarDesserializarObjetos.exe
+D:\Repo\AulasCSharp\SerializarDesserializarObjetos\obj\Debug\SerializarDesserializarObjetos.pdb
+D:\Repo\AulasCSharp\SerializarDesserializarObjetos\obj\Debug\SerializarDesserializarObjetos.csproj.AssemblyReference.cache

@@ -1,2 +1,7 @@
 D:\Repo\AulasCSharp\HerançaClasseExemplo\obj\Debug\HerançaClasseExemplo.csproj.AssemblyReference.cache
 D:\Repo\AulasCSharp\HerançaClasseExemplo\obj\Debug\HerançaClasseExemplo.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\HerançaClasseExemplo\bin\Debug\HerançaClasseExemplo.exe.config
+D:\Repo\AulasCSharp\HerançaClasseExemplo\bin\Debug\HerançaClasseExemplo.exe
+D:\Repo\AulasCSharp\HerançaClasseExemplo\bin\Debug\HerançaClasseExemplo.pdb
+D:\Repo\AulasCSharp\HerançaClasseExemplo\obj\Debug\HerançaClasseExemplo.exe
+D:\Repo\AulasCSharp\HerançaClasseExemplo\obj\Debug\HerançaClasseExemplo.pdb
