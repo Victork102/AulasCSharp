@@ -1,0 +1,5 @@
+D:\Repo\AulasCSharp\DllLibrary\MyDLL.dll
+D:\Repo\AulasCSharp\DllLibrary\MyDLL.pdb
+D:\Repo\AulasCSharp\MyDLL\obj\Release\MyDLL.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\MyDLL\obj\Release\MyDLL.dll
+D:\Repo\AulasCSharp\MyDLL\obj\Release\MyDLL.pdb

@@ -1,0 +1,10 @@
+D:\Repo\AulasCSharp\CarregarDLL\bin\Debug\CarregarDLL.exe.config
+D:\Repo\AulasCSharp\CarregarDLL\bin\Debug\CarregarDLL.exe
+D:\Repo\AulasCSharp\CarregarDLL\bin\Debug\CarregarDLL.pdb
+D:\Repo\AulasCSharp\CarregarDLL\bin\Debug\MyDLL.dll
+D:\Repo\AulasCSharp\CarregarDLL\bin\Debug\MyDLL.pdb
+D:\Repo\AulasCSharp\CarregarDLL\obj\Debug\CarregarDLL.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\CarregarDLL\obj\Debug\CarregarDLL.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\CarregarDLL\obj\Debug\CarregarDLL.csproj.CopyComplete
+D:\Repo\AulasCSharp\CarregarDLL\obj\Debug\CarregarDLL.exe
+D:\Repo\AulasCSharp\CarregarDLL\obj\Debug\CarregarDLL.pdb

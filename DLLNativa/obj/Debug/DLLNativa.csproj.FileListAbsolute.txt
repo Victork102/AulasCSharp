@@ -1,0 +1,6 @@
+D:\Repo\AulasCSharp\DLLNativa\bin\Debug\DLLNativa.exe.config
+D:\Repo\AulasCSharp\DLLNativa\bin\Debug\DLLNativa.exe
+D:\Repo\AulasCSharp\DLLNativa\bin\Debug\DLLNativa.pdb
+D:\Repo\AulasCSharp\DLLNativa\obj\Debug\DLLNativa.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\DLLNativa\obj\Debug\DLLNativa.exe
+D:\Repo\AulasCSharp\DLLNativa\obj\Debug\DLLNativa.pdb

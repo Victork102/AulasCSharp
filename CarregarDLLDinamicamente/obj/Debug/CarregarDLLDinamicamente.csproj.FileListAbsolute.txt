@@ -1,0 +1,6 @@
+D:\Repo\AulasCSharp\CarregarDLLDinamicamente\bin\Debug\CarregarDLLDinamicamente.exe.config
+D:\Repo\AulasCSharp\CarregarDLLDinamicamente\bin\Debug\CarregarDLLDinamicamente.exe
+D:\Repo\AulasCSharp\CarregarDLLDinamicamente\bin\Debug\CarregarDLLDinamicamente.pdb
+D:\Repo\AulasCSharp\CarregarDLLDinamicamente\obj\Debug\CarregarDLLDinamicamente.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\CarregarDLLDinamicamente\obj\Debug\CarregarDLLDinamicamente.exe
+D:\Repo\AulasCSharp\CarregarDLLDinamicamente\obj\Debug\CarregarDLLDinamicamente.pdb
