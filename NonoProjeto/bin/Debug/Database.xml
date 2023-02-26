@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Database xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/NonoProjeto">
+  <UserList>
+    <UserData>
+      <birthDay>1994-05-22T00:00:00</birthDay>
+      <fullName>Jorge</fullName>
+      <numDoc>1234</numDoc>
+      <numHouse>122</numHouse>
+      <streetName>Av a</streetName>
+    </UserData>
+    <UserData>
+      <birthDay>1486-05-22T00:00:00</birthDay>
+      <fullName>Sandra</fullName>
+      <numDoc>1111</numDoc>
+      <numHouse>11</numHouse>
+      <streetName>Rua c</streetName>
+    </UserData>
+  </UserList>
+</Database>

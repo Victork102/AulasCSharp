@@ -45,6 +45,19 @@ namespace SerializarDesserializarObjetos
 			File.WriteAllText(xmlFilePath, objSerial);
 
 
+			// Deserialização
+
+			string serialObjectContent = File.ReadAllText(xmlFilePath);
+			StringReader stringReader = new StringReader(serialObjectContent);
+			XmlReader xmlReader = XmlReader.Create(stringReader);
+			myDogDeserial = (Dog)serializer.ReadObject(xmlReader);
+
+			xmlWriter.Close();
+			xmlReader.Close();
+
+
+
+
 
 
 			Console.ReadKey();

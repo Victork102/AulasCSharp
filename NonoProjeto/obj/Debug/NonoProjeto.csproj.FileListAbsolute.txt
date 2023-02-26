@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\NonoProjeto\bin\Debug\NonoProjeto.exe.config
+D:\Repo\AulasCSharp\NonoProjeto\bin\Debug\NonoProjeto.exe
+D:\Repo\AulasCSharp\NonoProjeto\bin\Debug\NonoProjeto.pdb
+D:\Repo\AulasCSharp\NonoProjeto\obj\Debug\NonoProjeto.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\NonoProjeto\obj\Debug\NonoProjeto.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\NonoProjeto\obj\Debug\NonoProjeto.exe
+D:\Repo\AulasCSharp\NonoProjeto\obj\Debug\NonoProjeto.pdb
