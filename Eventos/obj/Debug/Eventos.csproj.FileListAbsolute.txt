@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\Eventos\bin\Debug\Eventos.exe.config
+D:\Repo\AulasCSharp\Eventos\bin\Debug\Eventos.exe
+D:\Repo\AulasCSharp\Eventos\bin\Debug\Eventos.pdb
+D:\Repo\AulasCSharp\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Eventos\obj\Debug\Eventos.exe
+D:\Repo\AulasCSharp\Eventos\obj\Debug\Eventos.pdb

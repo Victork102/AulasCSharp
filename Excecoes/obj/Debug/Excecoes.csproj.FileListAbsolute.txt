@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\Excecoes\bin\Debug\Excecoes.exe.config
+D:\Repo\AulasCSharp\Excecoes\bin\Debug\Excecoes.exe
+D:\Repo\AulasCSharp\Excecoes\bin\Debug\Excecoes.pdb
+D:\Repo\AulasCSharp\Excecoes\obj\Debug\Excecoes.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\Excecoes\obj\Debug\Excecoes.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Excecoes\obj\Debug\Excecoes.exe
+D:\Repo\AulasCSharp\Excecoes\obj\Debug\Excecoes.pdb
