@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\Threads 2\bin\Debug\Threads 2.exe.config
+D:\Repo\AulasCSharp\Threads 2\bin\Debug\Threads 2.exe
+D:\Repo\AulasCSharp\Threads 2\bin\Debug\Threads 2.pdb
+D:\Repo\AulasCSharp\Threads 2\obj\Debug\Threads 2.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\Threads 2\obj\Debug\Threads 2.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Threads 2\obj\Debug\Threads 2.exe
+D:\Repo\AulasCSharp\Threads 2\obj\Debug\Threads 2.pdb

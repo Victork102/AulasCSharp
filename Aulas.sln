@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLLNativa", "DLLNativa\DLLN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelProgramming", "ParallelProgramming\ParallelProgramming.csproj", "{3FEEC7F5-68E8-45A8-89E2-9F332B506141}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads 2", "Threads 2\Threads 2.csproj", "{C15D5750-6142-4EAC-B529-4DCB685E2183}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{3FEEC7F5-68E8-45A8-89E2-9F332B506141}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FEEC7F5-68E8-45A8-89E2-9F332B506141}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FEEC7F5-68E8-45A8-89E2-9F332B506141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15D5750-6142-4EAC-B529-4DCB685E2183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15D5750-6142-4EAC-B529-4DCB685E2183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15D5750-6142-4EAC-B529-4DCB685E2183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15D5750-6142-4EAC-B529-4DCB685E2183}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
