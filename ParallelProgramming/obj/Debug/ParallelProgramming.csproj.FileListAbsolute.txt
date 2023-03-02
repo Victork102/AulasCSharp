@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\ParallelProgramming\obj\Debug\ParallelProgramming.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\ParallelProgramming\obj\Debug\ParallelProgramming.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\ParallelProgramming\bin\Debug\ParallelProgramming.exe.config
+D:\Repo\AulasCSharp\ParallelProgramming\bin\Debug\ParallelProgramming.exe
+D:\Repo\AulasCSharp\ParallelProgramming\bin\Debug\ParallelProgramming.pdb
+D:\Repo\AulasCSharp\ParallelProgramming\obj\Debug\ParallelProgramming.exe
+D:\Repo\AulasCSharp\ParallelProgramming\obj\Debug\ParallelProgramming.pdb
