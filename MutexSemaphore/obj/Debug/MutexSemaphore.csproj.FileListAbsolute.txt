@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\MutexSemaphore\bin\Debug\MutexSemaphore.exe.config
+D:\Repo\AulasCSharp\MutexSemaphore\bin\Debug\MutexSemaphore.exe
+D:\Repo\AulasCSharp\MutexSemaphore\bin\Debug\MutexSemaphore.pdb
+D:\Repo\AulasCSharp\MutexSemaphore\obj\Debug\MutexSemaphore.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\MutexSemaphore\obj\Debug\MutexSemaphore.exe
+D:\Repo\AulasCSharp\MutexSemaphore\obj\Debug\MutexSemaphore.pdb
+D:\Repo\AulasCSharp\MutexSemaphore\obj\Debug\MutexSemaphore.csproj.AssemblyReference.cache

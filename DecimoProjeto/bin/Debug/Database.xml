@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Database xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/DecimoProjeto">
+  <UserList>
+    <UserData>
+      <birthDay>1958-02-02T00:00:00</birthDay>
+      <fullName>Odo</fullName>
+      <numDoc>9999</numDoc>
+      <numHouse>0</numHouse>
+      <streetName>DS 9 Promenade</streetName>
+    </UserData>
+  </UserList>
+</Database>

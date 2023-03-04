@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\Tasks\bin\Debug\Tasks.exe.config
+D:\Repo\AulasCSharp\Tasks\bin\Debug\Tasks.exe
+D:\Repo\AulasCSharp\Tasks\bin\Debug\Tasks.pdb
+D:\Repo\AulasCSharp\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Tasks\obj\Debug\Tasks.exe
+D:\Repo\AulasCSharp\Tasks\obj\Debug\Tasks.pdb

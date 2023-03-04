@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+D:\Repo\AulasCSharp\AsyncAwait\bin\Debug\AsyncAwait.exe
+D:\Repo\AulasCSharp\AsyncAwait\bin\Debug\AsyncAwait.pdb
+D:\Repo\AulasCSharp\AsyncAwait\obj\Debug\AsyncAwait.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\AsyncAwait\obj\Debug\AsyncAwait.exe
+D:\Repo\AulasCSharp\AsyncAwait\obj\Debug\AsyncAwait.pdb

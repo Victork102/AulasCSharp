@@ -1,0 +1,7 @@
+D:\Repo\AulasCSharp\DecimoProjeto\bin\Debug\DecimoProjeto.exe.config
+D:\Repo\AulasCSharp\DecimoProjeto\bin\Debug\DecimoProjeto.exe
+D:\Repo\AulasCSharp\DecimoProjeto\bin\Debug\DecimoProjeto.pdb
+D:\Repo\AulasCSharp\DecimoProjeto\obj\Debug\DecimoProjeto.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\DecimoProjeto\obj\Debug\DecimoProjeto.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\DecimoProjeto\obj\Debug\DecimoProjeto.exe
+D:\Repo\AulasCSharp\DecimoProjeto\obj\Debug\DecimoProjeto.pdb
