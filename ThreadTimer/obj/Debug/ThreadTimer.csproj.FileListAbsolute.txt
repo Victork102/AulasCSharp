@@ -1,0 +1,6 @@
+D:\Repo\AulasCSharp\ThreadTimer\bin\Debug\ThreadTimer.exe.config
+D:\Repo\AulasCSharp\ThreadTimer\bin\Debug\ThreadTimer.exe
+D:\Repo\AulasCSharp\ThreadTimer\bin\Debug\ThreadTimer.pdb
+D:\Repo\AulasCSharp\ThreadTimer\obj\Debug\ThreadTimer.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\ThreadTimer\obj\Debug\ThreadTimer.exe
+D:\Repo\AulasCSharp\ThreadTimer\obj\Debug\ThreadTimer.pdb

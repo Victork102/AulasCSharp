@@ -1,0 +1,6 @@
+D:\Repo\AulasCSharp\Timers\bin\Debug\Timers.exe.config
+D:\Repo\AulasCSharp\Timers\bin\Debug\Timers.exe
+D:\Repo\AulasCSharp\Timers\bin\Debug\Timers.pdb
+D:\Repo\AulasCSharp\Timers\obj\Debug\Timers.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\Timers\obj\Debug\Timers.exe
+D:\Repo\AulasCSharp\Timers\obj\Debug\Timers.pdb
