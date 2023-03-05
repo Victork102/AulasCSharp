@@ -1,0 +1,17 @@
+D:\Repo\AulasCSharp\WinForms - Labels\bin\Debug\net6.0-windows\WinForms - Labels.exe
+D:\Repo\AulasCSharp\WinForms - Labels\bin\Debug\net6.0-windows\WinForms - Labels.deps.json
+D:\Repo\AulasCSharp\WinForms - Labels\bin\Debug\net6.0-windows\WinForms - Labels.runtimeconfig.json
+D:\Repo\AulasCSharp\WinForms - Labels\bin\Debug\net6.0-windows\WinForms - Labels.dll
+D:\Repo\AulasCSharp\WinForms - Labels\bin\Debug\net6.0-windows\WinForms - Labels.pdb
+D:\Repo\AulasCSharp\WinForms - Labels\obj\Debug\net6.0-windows\WinForms - Labels.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\WinForms - Labels\obj\Debug\net6.0-windows\WinForms___Labels.Form1.resources
+D:\Repo\AulasCSharp\WinForms - Labels\obj\Debug\net6.0-windows\WinForms - Labels.csproj.GenerateResource.cache
+D:\Repo\AulasCSharp\WinForms - Labels\obj\Debug\net6.0-windows\WinForms - Labels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\AulasCSharp\WinForms - Labels\obj\Debug\net6.0-windows\WinForms - Labels.AssemblyInfoInputs.cache
+D:\Repo\AulasCSharp\WinForms - Labels\obj\Debug\net6.0-windows\WinForms - Labels.AssemblyInfo.cs
+D:\Repo\AulasCSharp\WinForms - Labels\obj\Debug\net6.0-windows\WinForms - Labels.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\WinForms - Labels\obj\Debug\net6.0-windows\WinForms - Labels.dll
+D:\Repo\AulasCSharp\WinForms - Labels\obj\Debug\net6.0-windows\refint\WinForms - Labels.dll
+D:\Repo\AulasCSharp\WinForms - Labels\obj\Debug\net6.0-windows\WinForms - Labels.pdb
+D:\Repo\AulasCSharp\WinForms - Labels\obj\Debug\net6.0-windows\WinForms - Labels.genruntimeconfig.cache
+D:\Repo\AulasCSharp\WinForms - Labels\obj\Debug\net6.0-windows\ref\WinForms - Labels.dll

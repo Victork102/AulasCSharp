@@ -1,0 +1,18 @@
+D:\Repo\AulasCSharp\WinForms - Buttons\bin\Debug\net6.0-windows\WinForms - Buttons.exe
+D:\Repo\AulasCSharp\WinForms - Buttons\bin\Debug\net6.0-windows\WinForms - Buttons.deps.json
+D:\Repo\AulasCSharp\WinForms - Buttons\bin\Debug\net6.0-windows\WinForms - Buttons.runtimeconfig.json
+D:\Repo\AulasCSharp\WinForms - Buttons\bin\Debug\net6.0-windows\WinForms - Buttons.dll
+D:\Repo\AulasCSharp\WinForms - Buttons\bin\Debug\net6.0-windows\WinForms - Buttons.pdb
+D:\Repo\AulasCSharp\WinForms - Buttons\obj\Debug\net6.0-windows\WinForms - Buttons.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\WinForms - Buttons\obj\Debug\net6.0-windows\WinForms___Buttons.Form1.resources
+D:\Repo\AulasCSharp\WinForms - Buttons\obj\Debug\net6.0-windows\WinForms___Buttons.Properties.Resources.resources
+D:\Repo\AulasCSharp\WinForms - Buttons\obj\Debug\net6.0-windows\WinForms - Buttons.csproj.GenerateResource.cache
+D:\Repo\AulasCSharp\WinForms - Buttons\obj\Debug\net6.0-windows\WinForms - Buttons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\AulasCSharp\WinForms - Buttons\obj\Debug\net6.0-windows\WinForms - Buttons.AssemblyInfoInputs.cache
+D:\Repo\AulasCSharp\WinForms - Buttons\obj\Debug\net6.0-windows\WinForms - Buttons.AssemblyInfo.cs
+D:\Repo\AulasCSharp\WinForms - Buttons\obj\Debug\net6.0-windows\WinForms - Buttons.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\WinForms - Buttons\obj\Debug\net6.0-windows\WinForms - Buttons.dll
+D:\Repo\AulasCSharp\WinForms - Buttons\obj\Debug\net6.0-windows\refint\WinForms - Buttons.dll
+D:\Repo\AulasCSharp\WinForms - Buttons\obj\Debug\net6.0-windows\WinForms - Buttons.pdb
+D:\Repo\AulasCSharp\WinForms - Buttons\obj\Debug\net6.0-windows\WinForms - Buttons.genruntimeconfig.cache
+D:\Repo\AulasCSharp\WinForms - Buttons\obj\Debug\net6.0-windows\ref\WinForms - Buttons.dll

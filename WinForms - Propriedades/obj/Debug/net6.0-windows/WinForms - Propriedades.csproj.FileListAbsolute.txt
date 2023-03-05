@@ -1,0 +1,18 @@
+D:\Repo\AulasCSharp\WinForms - Propriedades\bin\Debug\net6.0-windows\WinForms - Propriedades.exe
+D:\Repo\AulasCSharp\WinForms - Propriedades\bin\Debug\net6.0-windows\WinForms - Propriedades.deps.json
+D:\Repo\AulasCSharp\WinForms - Propriedades\bin\Debug\net6.0-windows\WinForms - Propriedades.runtimeconfig.json
+D:\Repo\AulasCSharp\WinForms - Propriedades\bin\Debug\net6.0-windows\WinForms - Propriedades.dll
+D:\Repo\AulasCSharp\WinForms - Propriedades\bin\Debug\net6.0-windows\WinForms - Propriedades.pdb
+D:\Repo\AulasCSharp\WinForms - Propriedades\obj\Debug\net6.0-windows\WinForms - Propriedades.csproj.AssemblyReference.cache
+D:\Repo\AulasCSharp\WinForms - Propriedades\obj\Debug\net6.0-windows\WinForms___Propriedades.Form1.resources
+D:\Repo\AulasCSharp\WinForms - Propriedades\obj\Debug\net6.0-windows\WinForms - Propriedades.csproj.GenerateResource.cache
+D:\Repo\AulasCSharp\WinForms - Propriedades\obj\Debug\net6.0-windows\WinForms - Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\AulasCSharp\WinForms - Propriedades\obj\Debug\net6.0-windows\WinForms - Propriedades.AssemblyInfoInputs.cache
+D:\Repo\AulasCSharp\WinForms - Propriedades\obj\Debug\net6.0-windows\WinForms - Propriedades.AssemblyInfo.cs
+D:\Repo\AulasCSharp\WinForms - Propriedades\obj\Debug\net6.0-windows\WinForms - Propriedades.csproj.CoreCompileInputs.cache
+D:\Repo\AulasCSharp\WinForms - Propriedades\obj\Debug\net6.0-windows\WinForms - Propriedades.dll
+D:\Repo\AulasCSharp\WinForms - Propriedades\obj\Debug\net6.0-windows\refint\WinForms - Propriedades.dll
+D:\Repo\AulasCSharp\WinForms - Propriedades\obj\Debug\net6.0-windows\WinForms - Propriedades.pdb
+D:\Repo\AulasCSharp\WinForms - Propriedades\obj\Debug\net6.0-windows\WinForms - Propriedades.genruntimeconfig.cache
+D:\Repo\AulasCSharp\WinForms - Propriedades\obj\Debug\net6.0-windows\ref\WinForms - Propriedades.dll
+D:\Repo\AulasCSharp\WinForms - Propriedades\obj\Debug\net6.0-windows\WinForms___Propriedades.Properties.Resources.resources

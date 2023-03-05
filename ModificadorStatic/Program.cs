@@ -79,7 +79,7 @@ namespace ModificadorStatic
 			Console.WriteLine(Calculator.Pi);
 			Console.WriteLine(Calculator.CalculateCircleArea(2));
 
-			Calculator calc1 = new Calculator();
+			//Calculator calc1 = new Calculator();
 
 			Console.WriteLine("========================");
 
