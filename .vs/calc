@@ -1,0 +1,164 @@
+using System;
+using System.Collections;
+
+public enum Operacao
+{
+	Soma = '1',
+	Subtracao = '2',
+	Multiplicacao = '3',
+	Divisao = '4',
+    Exibir Log = '5'
+}
+public class Calculadora
+{
+	
+	//Atributos
+	
+	private double valorA;
+	private double valorB;
+
+	public double ValorA
+	{
+	get {return valorA;}
+	set { valorA = value;}
+	}
+	public double ValorB
+	{
+	get {return valorB;}
+	set { valorB = value;}
+	}
+	
+	
+	public double Soma()
+	{
+		
+		return ValorA + ValorB;
+		
+	}
+	
+	public  double Subtracao()
+	{
+		
+		return ValorA - ValorB;
+		
+	}
+	public  double Multiplicacao()
+	{
+		
+		return ValorA * ValorB;
+		
+	}
+	public  double Divisao()
+	{
+	
+		
+		
+			
+			if(ValorB != 0)
+			{
+			
+			return ValorA / ValorB;
+			
+			}
+			else
+			{			
+		
+			throw new Exception("Impossível dividir por zero!");
+			}
+		
+	} 
+	
+	public Calculadora()
+	{
+		
+    }
+	}
+
+
+
+
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        ArrayList log = new ArrayList();
+		Calculadora calc = new Calculadora();		
+		bool exit = false;
+		
+		do
+		{
+			Console.WriteLine("Escolha operação");
+		
+			Operacao opcao = new Operacao();
+			
+		
+		 Console.WriteLine ("Digite valor 1");
+		double num1 = double.Parse(Console.ReadLine());
+		Console.WriteLine("Digite valor 2");
+		double num2 = double.Parse(Console.ReadLine());
+		
+		
+		calc.ValorA = num1;
+		calc.ValorB = num2;
+		
+	
+		
+		UInt16 op = Convert.ToUInt16(Console.ReadLine());
+		
+		switch (op){
+			case 1: opcao = Operacao.Soma; break;
+			case 2:  opcao = Operacao.Subtracao; break;
+			case 3: opcao = Operacao.Multiplicacao; break;
+			case 4: opcao = Operacao.Divisao; break;
+			case 5:
+			default: exit = true;
+			break;
+		}
+
+        //Operacao opcao = (Operacao)enum.Parse(typeof(Operacao),op,true);
+		
+				
+		switch(opcao){
+			
+			case Operacao.Soma: 
+			double soma = calc.Soma();
+			string a = a.Format("A soma de {0} e {1} é {2}.",num1,num2,soma);
+			log.Append(a);
+			Console.WriteLine(a);			
+			break;
+			
+			case Operacao.Subtracao: 
+			double subtracao = calc.Subtracao();
+			string a = a.Format("A soma de {0} e {1} é {2}.",num1,num2,subtracao);
+			log.Append(a);
+			break;
+			
+			case Operacao.Multiplicacao: 
+			double multi = calc.Multiplicacao();
+			string a = a.Format("A soma de {0} e {1} é {2}.",num1,num2,multi);
+			log.Append(a);
+			break;
+			
+			case Operacao.Divisao:
+			double divi = calc.Divisao();
+			string a = a.Format("A soma de {0} e {1} é {2}.",num1,num2,soma);
+			log.Append(a);
+			break;
+			
+			default: exit = true;
+			break;
+		}
+		
+		
+		
+		}
+		while (exit != true);
+		
+		
+		
+		
+		Console.ReadKey();
+		
+    }
+}
